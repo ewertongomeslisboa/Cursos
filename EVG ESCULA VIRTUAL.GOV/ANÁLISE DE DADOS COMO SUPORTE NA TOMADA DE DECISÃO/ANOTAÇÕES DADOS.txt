@@ -1,0 +1,50 @@
+Conheça, assistindo à videoaula a seguir, os principais sistemas de informação do governo federal como o Siorg, Sigepe, Siape, SCDP, Siest, Siasg, Portal de Compras do Governo Federal (Comprasnet), e os principais serviços de dados do governo federal: Dados do IBGE, Dados do Ipea, Dados do Banco Central, Portal Brasileiro de Dados Abertos e o Portal da Transparência, da CGU.
+
+
+---- TAXONOMIA DE DADOS -----
+
+TAXONOMIA - Uma taxonomia fornece a estrutura para os dados em sua plataforma de atribuição, e permite analisar .
+ com base em características comuns e dá nomes a esses grupos. Para cada grupo, é dada uma nota. Os grupos podem ser agregados para formar um supergrupo de maior pontuação, criando uma classificação hierárquica.
+- CLASSIFICAÇÃO DE DADOS
+
+
+DADO - Simples obs de um determinado estado no mundo real
+- facilmente estruturado
+- facilmente obtido por maquinas
+- facilmente transferido
+
+INFORMAÇÃO - é um conjunto de dado com valor agregado a ele, é melhor, passou por um processo de contextualização, 
+- tem relevância
+- tem um propósito
+- Requer análise, processamento
+- exige mediação humana de análise ou aplicação
+
+
+CONHECIMENTO - é maior valor agregado ainda
+- informação valiosa da mente humana, incluindo reflexão, contexto, etc.
+- exige sintese, criatividade
+- difícil estruturação 
+- Frequentemente taxionomia
+
+
+GRUPOS DE DADOS
+
+**DADOS ESTRUTURADOS - 
+- SÃO AQUELES ENCONTRADOS NA FORMA(TABULARES) TABELADAS, ONDE CADA COLUNA TEM UM TIPO DE DADOS
+- GARANTE QUE HAJA UM RÍGIDO CONTROLE DA TIPOLOGIA, 
+- PLANILHAS ELETRÔNICAS, BANCO DEDADOS, SISTEMAS TRADIICIONAIS
+- PODEM SER SUBDIVIDIDOS EM 2 GRUPOS
+-- categórico - identificador, como estado, se não tem medidas, é categóricos
+---nominais - nome, cidade, uf, rg
+---ordinais - dados ordinais no momento da análise tem que receber tratamento diferenciado: escolaridade, faixas de idade
+...............................................
+-- numéricos - Representa medição de algum dado da vida real, ex , temperatura, peso, distância, salario, altura
+---intervalares - escalas não tem 0 absoluto,  
+---racionais - peso, distância,
+
+**DADOS NÃO ESTRUTURADOS -
+- SÃO AQUELES CUJO CONTEÚDO NAO APRESENTA ESTRUTURA RÍGIDA, COMO TEXTOS, ÁUDIS E VIDEOS
+
+
+DADOS SEMIESTRUTURADOS
+- SÃO AQUELES CUJO CONTEÚDO, EMBORA NÃO APRESENTA ESTRUTURA RÍGIDA, POSSUI ALGUM TIPO DE MARCAÇÃO QUE PERMITA SEU PROCESSAMENTO AUTOMATIZADO, COMO HTML, XML E JSON

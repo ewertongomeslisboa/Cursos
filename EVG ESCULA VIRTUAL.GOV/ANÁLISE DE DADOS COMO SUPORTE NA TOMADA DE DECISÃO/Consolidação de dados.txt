@@ -1,0 +1,17 @@
+Consolidação de dados
+
+conhecer as operações acessar e coletar dados (arquivos, bancos de dados, web), selecionar e filtrar dados e integrar e unificar dados.
+
+- processo na coletaa, seleção e integração de dados para a análise de dados
+
+- acessar e coletar dados
+- conectar nas aplicações ou as fontes e buscar os dados
+- seleção e filtro dos dados
+- filtrar para reduzir o volume de lista de dados , quais não seriam necessário para análise 
+- integrar e unificar os dados de diferentes fontes, integra-los para produzir uma análise sofisticado
+
+- ferramentas e linguagens de processamento de dados
+- consultas em banco de dados
+- softwares agentes-serviços de dados
+- experiências no domínio
+- mapeamento de dados orientados à ontologia

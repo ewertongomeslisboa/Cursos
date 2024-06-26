@@ -1,0 +1,30 @@
+Analise de dados descritiva
+
+-Consiste em conhecer o que está acontecendo na organização  entender as tendências e causas a partir de dados históricos
+
+o que aconteceu?
+o que está acontecendo ?
+
+FACILITADORES
+- relatorios empresariais
+- Dashboards
+- Scorecards
+- Data Warehouse
+
+- problemas e oportunidades empresariais bem definidos
+
+- entender tendências e causa a partir de dados históricos
+
+- serve de base ou ponto de partida para demais tipos de análise de dados
+
+- possibilita descrever corretamente e apresentar os dados de uma forma mais significativa e mais facil compreensão usando estatistícas e gráficos 
+
+- gera informações e conhecimentos aprofunados relevantes para suporte a tomada de decisões, 
+
+- permite atenuar  o problema de qualidade de dados( erros, pontos extremos , vazios)
+
+++ principais meios de realização 
+* Análise estatísticas -> métodos matemáticos
+* Data Wharehouse  DW (OLAP); processamento analítico online para dar dinamismo ao processo de consulta 
+*Business Intelligencia - BI e OLAP
+*Visualizaçãp de dados

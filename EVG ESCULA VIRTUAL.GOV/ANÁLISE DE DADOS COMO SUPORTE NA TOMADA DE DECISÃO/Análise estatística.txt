@@ -1,0 +1,53 @@
+Análise estatística
+
+Os tópicos abordados no vídeo a seguir são: estatística descritiva, estatística inferencial, amostragem estatística (aleatória simples, sistemática, estratificada) e os passos básicos de um estudo estatístico.
+
+- Consiste utilização de técnicas matemáticas voltadas a analiar e interpretar dados
+- em análises estatísticas a amostragem é utilizado tendo em vista que medir toda a população pode ser impraticável e até mesmo desnecessário
+
+++++ESTATÍSTICAS DEFINIDAS
+- descreve amostra dos dados ou populações
+- utiliza método quantitativos e gráficos
+- Objetiva organizar, apresentar e sumarizar dados e informações
+
++++ ESTATÍSTICAS INFERENCIAL
+- Utiliza as informações das amostras para inferir ou concluir sobre as características da população
+
++++CONCEITOS ESTATÍSTICAS
+- Individuo : pessoa ou objeto incluido alvo do estudo
+- variavel: característica do inndividuo a ser medida ou observada
+- População: Conjunto de todos membros (pessoas,objetos) relacionados a determinado tema de estudo
+- amostras: subconjunto representativo da população ( pode ser enviesado)
+- dados da população: Dados referente a todos os individuos da população (Censo - muito raro, caro, difícil, demorado); 
+- dados da amostra: Dados de apenas alguns individuos( Viável, barato, rápido - muito usado em pesquisas e estudos)
+
++++++AMOSTRAGEM ALEATÓRIA SIMPLES
+- cada individuo da amostra deve ter a mesma chance de ser selecionado
+- é necessário a lista da população e a lista deve ser boa
+
++++++ AMOSTRAGEM SISTEMÁTICA
+- ordene a lista
+- escolha um ponto aleatório de início
+- Selecione os próximos elemento a cada x elementos da escolha anterior
+- Atenção: Só pode ser usado se não existir um padrão repetitivo na listagem dos dados
+- cuidado com padrão repetitivo na amostragem
+
++++++AMOSTRAGEM ESTRATIFICADA
+- Dividir a lista em grupos (estratos) de características similares
+- Realizar amostragem aleatória simples dentro de cada grupo, com quantidade proporcionais ao tamanho do grupo
+
+++++ LIMITAÇÕES DA AMOSTRAGEM ESTRATIFICADA
+- dependência da lista
+- erros de proporção dos estratos da amostragem afetarão os resultados
+- dificuldade de separação dos grupos
+
++++++ PASSOS BÁSICOS DE UM ESTUDOS ESTATÍSTICOS
+deve seguir um procedimento estruturado, cuidadoso e bem documentado
+
+1- seleção de uma ideia central e população de interesse( Escopo e foco)
+2 - seleção e medição das variáveis de interesse
+3 - amostragem da população
+4 - coleta de dados
+5 - análise de dados; e 
+6 - Redação dos resultados de forma compreensível
+

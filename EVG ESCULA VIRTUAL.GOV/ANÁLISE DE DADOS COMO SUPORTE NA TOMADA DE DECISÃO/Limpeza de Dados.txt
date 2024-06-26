@@ -1,0 +1,10 @@
+LIMPEZA DE DADOS 
+são apresentadas as operações: tratar dados nulos e vazios no conjunto de dados, identificar e reduzir ruídos nos dados e encontrar e eliminar dados errados.
+
+- TRATAR DADOS NULOS
+- PREENCHER CAMPOS COM VALORES APROPRIADOS
+- RECODIFICAR VALORES
+- REMOVER REGISTROS VAZIOS
+- tratar os problemas de qualidades nos dados 
+- identificar e reduzir ruidos, 
+- eliminar dados errados 
